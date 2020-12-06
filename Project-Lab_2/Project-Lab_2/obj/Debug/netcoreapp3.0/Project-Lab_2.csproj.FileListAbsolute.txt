@@ -1,0 +1,11 @@
+D:\Pavel\ООП\Project-Lab_2\Project-Lab_2\bin\Debug\netcoreapp3.0\Project-Lab_2.exe
+D:\Pavel\ООП\Project-Lab_2\Project-Lab_2\bin\Debug\netcoreapp3.0\Project-Lab_2.deps.json
+D:\Pavel\ООП\Project-Lab_2\Project-Lab_2\bin\Debug\netcoreapp3.0\Project-Lab_2.runtimeconfig.json
+D:\Pavel\ООП\Project-Lab_2\Project-Lab_2\bin\Debug\netcoreapp3.0\Project-Lab_2.runtimeconfig.dev.json
+D:\Pavel\ООП\Project-Lab_2\Project-Lab_2\bin\Debug\netcoreapp3.0\Project-Lab_2.dll
+D:\Pavel\ООП\Project-Lab_2\Project-Lab_2\bin\Debug\netcoreapp3.0\Project-Lab_2.pdb
+D:\Pavel\ООП\Project-Lab_2\Project-Lab_2\obj\Debug\netcoreapp3.0\Project-Lab_2.csprojAssemblyReference.cache
+D:\Pavel\ООП\Project-Lab_2\Project-Lab_2\obj\Debug\netcoreapp3.0\Project-Lab_2.AssemblyInfoInputs.cache
+D:\Pavel\ООП\Project-Lab_2\Project-Lab_2\obj\Debug\netcoreapp3.0\Project-Lab_2.AssemblyInfo.cs
+D:\Pavel\ООП\Project-Lab_2\Project-Lab_2\obj\Debug\netcoreapp3.0\Project-Lab_2.dll
+D:\Pavel\ООП\Project-Lab_2\Project-Lab_2\obj\Debug\netcoreapp3.0\Project-Lab_2.pdb
