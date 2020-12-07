@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab_3.CGraphicsObject">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjAAAA=</HashCode>
+      <FileName>CGraphicsObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_3.CPoint">
+    <Position X="2.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAEAAAACAAAAAAAAAAAAAAAAAAEAAAAAAAAAAjAAAA=</HashCode>
+      <FileName>CPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_3.СircleArc">
+    <Position X="4.5" Y="2" Width="1.5" />
+    <InheritanceLine Type="Lab_3.CPoint" ManuallyRouted="true">
+      <Path>
+        <Point X="4" Y="3.515" />
+        <Point X="4.25" Y="3.515" />
+        <Point X="4.25" Y="3.131" />
+        <Point X="4.5" Y="3.131" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAEAAAAAAAAAABAAAA=</HashCode>
+      <FileName>СircleArc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
